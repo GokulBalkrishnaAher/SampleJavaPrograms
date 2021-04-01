@@ -1,0 +1,7 @@
+Hare Krishna Hare Krishna
+Krishna Krishna Hare Hare
+Hare Ram Hare Ram
+Ram Ram Hare Hare
+
+This is my first file added , commited and pushed in to GitHub Repository SampleJavaPrograms
+
