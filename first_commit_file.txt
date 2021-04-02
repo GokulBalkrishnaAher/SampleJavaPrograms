@@ -5,3 +5,7 @@ Ram Ram Hare Hare
 
 This is my first file added , commited and pushed in to GitHub Repository SampleJavaPrograms
 
+By using the GitHub Edit functionality Following changes are made by editing this .txt file 
+Om Namo Bhgwate Wasudevay
+Hari bol
+
